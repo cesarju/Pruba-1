@@ -1,3 +1,4 @@
 Julio Cesar Ticona 
 8346553
 cesarju@gmail.com
+git init
